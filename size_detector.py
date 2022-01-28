@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-class SizeDetector():
+class SizeDetector:
     def __init__(self):
         self.aruco_params = cv2.aruco.DetectorParameters_create()
         self.aruco_dict = cv2.aruco.Dictionary_get(cv2.aruco.DICT_5X5_50)
