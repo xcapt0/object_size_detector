@@ -2,6 +2,9 @@
 
 You can measure size of any object, just take your camera and point at this object. This project eliminates the need to measure manually.
 
+<img width=500 height=370 src="https://user-images.githubusercontent.com/70326958/151651104-2bc75d56-79fa-4a80-a2ba-65ce5e382b96.png">
+
+
 ## 🎁 Installation
 Install project with the following commands:
 ```sh
