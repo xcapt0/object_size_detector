@@ -25,5 +25,5 @@ python main.py
 
 ## 📝 License
 
-Copyright © 2022 [Vadim Mukhametgareev](https://github.com/xcapt0).<br />
+Copyright © 2022 [xcapt0](https://github.com/xcapt0).<br />
 This project is [MIT](https://github.com/xcapt0/object_size_detector/blob/main/LICENSE) licensed.
